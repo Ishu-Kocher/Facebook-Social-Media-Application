@@ -1,0 +1,50 @@
+/* Index */
+#login input {
+	height: 23px;
+	border-radius: 0px !important;
+}
+
+#login label {
+	color: white;
+}
+
+#login input[type="submit"] {
+	margin-top: 30px;
+	padding: 0px;
+	width: 50px;
+}
+
+#navBar {
+	background: #43609C !important;
+}
+
+#navBar .navbar-brand {
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+#navBar a {
+	font-weight: 100;
+	color: white;
+}
+
+#navBar .navbar-toggler {
+	border: none;
+	outline: none;
+}
+
+#main-con {
+	background: #F8F8F8 !important;
+	height: auto;
+}
+
+#main-con .p {
+	margin-top: 12%;
+}
+
+#main-con h1 {
+	margin-top: 8%;
+}
+
+
+
